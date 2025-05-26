@@ -1,9 +1,9 @@
 const cacheName = "21-Yokai Boppers-0.1.0";
 const contentToCache = [
-    "Build/WebBuild.loader.js",
-    "Build/WebBuild.framework.js.gz",
-    "Build/WebBuild.data.gz",
-    "Build/WebBuild.wasm.gz",
+    "Build/YokaiWeb.loader.js",
+    "Build/YokaiWeb.framework.js.gz",
+    "Build/YokaiWeb.data.gz",
+    "Build/YokaiWeb.wasm.gz",
     "TemplateData/style.css"
 
 ];
